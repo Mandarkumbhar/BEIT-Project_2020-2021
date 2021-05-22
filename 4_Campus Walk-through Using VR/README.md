@@ -3,7 +3,7 @@ Title : Campus Walk-through Using VR
 Group Members :
 Mandar Kumbhar,
 Sahil Naik, 
-rutvik Lathiya
+Rutvik Lathiya
 
 Description :
 
